@@ -1,4 +1,5 @@
 ## i make skateboard things for you to make (or buy maybe)
+current: im not spoiling
 
 <!--
 **bazingaboardz/bazingaboardz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
